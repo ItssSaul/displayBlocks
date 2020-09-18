@@ -1,0 +1,44 @@
+#wrapper{
+    background-color: bisque;
+    margin:20px;
+    width: 1184px;
+}
+#header{
+display: flex;
+margin-left:360px;
+}
+#puzzle1{
+    display: flex;
+}
+#p2{
+    display:flex;
+}
+#p3{
+    display: flex;
+}
+#p4{
+    display:flex;
+}
+.topimg{
+    height: 100px;
+    width:100px;
+}
+.img1{
+    height: 150px;
+    width: 150px;
+    margin:20px;
+}
+.bluebox{
+    background-color: cadetblue;
+    height: 194px;
+    width: 192px;
+    margin: 20px;
+    border: 2px solid black;
+}
+.redbox{
+    background-color: red;
+    height: 194px;
+    width: 192px;
+    margin:20px;
+    border: 2px solid black;
+}
